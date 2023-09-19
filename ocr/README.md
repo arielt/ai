@@ -8,3 +8,10 @@ for char-base processing.
 archictecture for both image understanding and wordpiece-level text generation.
 
 Good overview of TrOCR models: https://github.com/microsoft/unilm/blob/master/trocr/README.md
+
+Model comparison
+
+| Model | Model Size | Results |
+| --- | :---: | :---: |
+| TrOCR Small Handwritten | TBD | TBD |
+| TrOCR Base Handwritten | TBD | TBD|

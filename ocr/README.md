@@ -9,9 +9,11 @@ archictecture for both image understanding and wordpiece-level text generation.
 
 Good overview of TrOCR models: https://github.com/microsoft/unilm/blob/master/trocr/README.md
 
-Model comparison
+# Handwritten recognition
+
+Script: ocr/trocr-handwritten.py
 
 | Model | Model Size | Results |
 | --- | :---: | :---: |
-| TrOCR Small Handwritten | TBD | TBD |
-| TrOCR Base Handwritten | TBD | TBD|
+| [TrOCR Small Handwritten](https://huggingface.co/microsoft/trocr-small-handwritten/tree/main) | 246 MB | 1/3 |
+| [TrOCR Base Handwritten](https://huggingface.co/microsoft/trocr-base-handwritten/tree/main) | 1.33 GB | 3/3 |

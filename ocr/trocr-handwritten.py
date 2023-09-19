@@ -36,9 +36,9 @@ def process_image(image):
 
 def smile_comp(a,b):
     if a == b:
-        return "\U0001F642"
+        return "\U0001F601"
     else:
-        return "\U0001F610"
+        return "\U0001F976"
 
 for idx, img in enumerate(images):
     generated_text = process_image(img)

@@ -6,4 +6,5 @@ for char-base processing.
 
 [TrOCR](https://arxiv.org/abs/2109.10282) offers end-to-end text recognition approach with Transformer
 archictecture for both image understanding and wordpiece-level text generation.
- 
+
+Good overview of TrOCR models: https://github.com/microsoft/unilm/blob/master/trocr/README.md

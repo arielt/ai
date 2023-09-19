@@ -6,7 +6,7 @@ image = Image.open(requests.get(url, stream=True).raw).convert("RGB")
 image
 
 # prepare image
-print('preparing image')
+print('--- preparing image')
 from transformers import TrOCRProcessor
 
 processor = TrOCRProcessor.from_pretrained("microsoft/trocr-base-handwritten")
@@ -14,15 +14,13 @@ processor = TrOCRProcessor.from_pretrained("microsoft/trocr-base-handwritten")
 pixel_values = processor(image, return_tensors="pt").pixel_values
 print(pixel_values.shape)
 
-
 # load model
-print('loading model')
+print('--- loading model')
 from transformers import VisionEncoderDecoderModel
 model = VisionEncoderDecoderModel.from_pretrained("microsoft/trocr-base-handwritten")
 
 # recognize text
-print('recognition')
+print('--- recognition')
 generated_ids = model.generate(pixel_values)
 generated_text = processor.batch_decode(generated_ids, skip_special_tokens=True)[0]
 print(generated_text)
-

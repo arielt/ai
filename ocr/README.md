@@ -17,3 +17,11 @@ Script: ocr/trocr-handwritten.py
 | --- | :---: | :---: |
 | [TrOCR Small Handwritten](https://huggingface.co/microsoft/trocr-small-handwritten/tree/main) | 246 MB | 1/3 |
 | [TrOCR Base Handwritten](https://huggingface.co/microsoft/trocr-base-handwritten/tree/main) | 1.33 GB | 3/3 |
+
+# Printed recognition
+
+Script: ocr/trocr-printed.py
+
+| Model | Model Size | Results |
+| --- | :---: | :---: |
+| [TrOCR Base Printed](https://huggingface.co/microsoft/trocr-small-handwritten/tree/main) | 1.33 GB | TBD |

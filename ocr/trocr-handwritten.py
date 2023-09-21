@@ -1,5 +1,6 @@
-import requests
+from transformers import VisionEncoderDecoderModel
 from PIL import Image
+import requests
 
 urls = ['https://fki.tic.heia-fr.ch/static/img/a01-122-02.jpg',
         'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoolxi9yWGAT5SLZShv8vVd0bz47UWRzQC19fDTeE8GmGv_Rn-PCF1pP1rrUx8kOjA4gg&usqp=CAU',
@@ -19,7 +20,6 @@ from transformers import TrOCRProcessor
 processor = TrOCRProcessor.from_pretrained("microsoft/trocr-base-handwritten")
 
 print('--- loading model')
-from transformers import VisionEncoderDecoderModel
 model = VisionEncoderDecoderModel.from_pretrained("microsoft/trocr-base-handwritten")
 
 def process_image(image):

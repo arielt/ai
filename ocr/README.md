@@ -24,4 +24,9 @@ Script: ocr/trocr-printed.py
 
 | Model | Model Size | Results |
 | --- | :---: | :---: |
-| [TrOCR Base Printed](https://huggingface.co/microsoft/trocr-small-handwritten/tree/main) | 1.33 GB | TBD |
+| [TrOCR Base Printed](https://huggingface.co/microsoft/trocr-base-printed/tree/main) | 1.33 GB | TBD |
+
+# References
+  - [SROIE Dataset](https://www.kaggle.com/datasets/urbikn/sroie-datasetv2)
+  - [OpenCV: split text lines in a scanned document](https://stackoverflow.com/questions/34981144/split-text-lines-in-scanned-document)
+  - [OpenCV: save splitted text lines](https://stackoverflow.com/questions/67991036/save-splited-text-lines-opencv)

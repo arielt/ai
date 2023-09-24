@@ -26,7 +26,14 @@ Script: ocr/trocr-printed.py
 | --- | :---: | :---: |
 | [TrOCR Base Printed](https://huggingface.co/microsoft/trocr-base-printed/tree/main) | 1.33 GB | TBD |
 
+# Image preparation
+```python ocr/split-image.py```
+
+Rotate tilted image, find lines, split to one-line images.
+
 # References
   - [SROIE Dataset](https://www.kaggle.com/datasets/urbikn/sroie-datasetv2)
   - [OpenCV: split text lines in a scanned document](https://stackoverflow.com/questions/34981144/split-text-lines-in-scanned-document)
   - [OpenCV: save splitted text lines](https://stackoverflow.com/questions/67991036/save-splited-text-lines-opencv)
+  - [Tesseract pipeline](https://nanonets.com/blog/receipt-ocr/)
+  - [Image segmentation](https://www.kaggle.com/code/dmitryyemelyanov/receipt-ocr-part-1-image-segmentation-by-opencv) 

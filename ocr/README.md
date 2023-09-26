@@ -45,6 +45,11 @@ sudo port install tesseract-deu # German
 python ocr/tesseract-deu.py # german receipt experiment
 ```
 
+# Receipt scanner
+```
+python ocr/scan-receipt.py --debug --image ocr/img/safeway2.png
+```
+
 # References
   - [SROIE Dataset](https://www.kaggle.com/datasets/urbikn/sroie-datasetv2)
   - [OpenCV: split text lines in a scanned document](https://stackoverflow.com/questions/34981144/split-text-lines-in-scanned-document)

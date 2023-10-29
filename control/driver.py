@@ -5,6 +5,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
+from selenium.webdriver import ActionChains
+
 # launch chrome
 driver = webdriver.Chrome()
 
@@ -16,10 +18,14 @@ assert 'Wells Fargo' in driver.title
 elem = driver.find_element(By.NAME, "j_username")
 elem.send_keys('')
 
-# move cursor to the card button
-wait = WebDriverWait(driver, 3600)
-cc_link = wait.until(EC.element_to_be_clickable((By.LINK_TEXT, 'PLATINUM CARD')));
+# wait till card span appears and move to it
+card_span = WebDriverWait(driver, 3600).until(EC.presence_of_element_located((By.XPATH, '//span[text()="PLATINUM CARD"]')))
+ActionChains(driver).move_to_element(card_span).perform()
 
-print('clicked')
+print('moved to span')
+
+payment_span = WebDriverWait(driver, 3600).until(EC.presence_of_element_located((By.XPATH, '//span[text()="Make Payment"]')))
+
+print('payment appeared')
 
 driver.close()

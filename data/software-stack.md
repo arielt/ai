@@ -1,4 +1,4 @@
-# Stack
+# Software stack
 
 My go-to list of tools & software
 

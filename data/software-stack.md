@@ -6,4 +6,5 @@ My go-to list of tools & software.
 | -------- | ---- | --- | ----- |
 | Code editor | Visual Studio Code | https://code.visualstudio.com/ | Not IDE |
 | IDE         | 🛑 | 🛑 | 🛑 |
-| Personal vault | Zxbase | https://zxbase.com |
+| Personal vault | Zxbase | https://zxbase.com ||
+| Cross-platform app development framework | Flutter | https://flutter.dev/ ||

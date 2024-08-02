@@ -17,7 +17,8 @@ Open questions:
   - Category vs Label. Each list defines the category. Should it be re-labeled?
 
 ## Lists
-### Most influential books in my life
+### Life
+Most influential books in my life.
 | Title | Author | URL |
 | ----- | ------ | --- |
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | |
@@ -31,7 +32,7 @@ Open questions:
 | Starship Troopers | Robert A. Heinlein | |
 | Hyperion | Dan Simmons | |
 
-### Professional
+### Work
 | Title | Author | URL |
 | ----- | ------ | --- |
 | Harvard Business Review Manager's Handbook | Harvard Business Review | |

@@ -6,3 +6,4 @@ My personal workspace.
 | -------- | ---- | --- | ----- |
 | Keyboard | Logitech MX Keys | https://www.amazon.com/gp/product/B07S92QBCJ | |
 | Mouse    | Logitech MX Master 3 | https://www.amazon.com/gp/product/B07S395RWD | |
+| Laptop stand | Omoton | https://www.amazon.com/gp/product/B078X49YQQ | |

@@ -4,11 +4,7 @@
 
 Entity: book
 
-Attributes:
-  - Title
-  - Author
-  - URL
-  - Images
+Item == {Title + Author}
 
 It is not going to the level of specific instances, like ISBN, edition, publication date, or language.
 It was deemed non-important for matching.

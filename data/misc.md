@@ -19,3 +19,10 @@ Item == {Brand + Model}
 | Brand | Model | URL | Notes |
 | ----- | ----- | --- | ----- |
 | The North Face | Commuter Pack Alt Carry | [URL](https://www.thenorthface.com/en-us/bags-and-gear/backpacks/mens-backpacks-c298772/commuter-pack-alt-carry-pNF0A52SX?color=KX7) | [Sling] [Discontinued] |
+
+
+### Coffee machines
+Item == {Brand + Model}
+| Brand | Model | URL | Notes |
+| ----- | ----- | --- | ----- |
+| Breville | Barista Express Espresso Machine BES870XL | [URL](https://www.amazon.com/gp/product/B00CH9QWOU) | |

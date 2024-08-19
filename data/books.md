@@ -19,6 +19,7 @@ Most influential books in my life.
 | ----- | ------ | --- |
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | |
 | Man's Search for Meaning | Viktor E. Frankl | |
+| Thinking, Fast and Slow | Daniel Kahneman | |
 
 ### Sci-Fi
 | Title | Author | URL |

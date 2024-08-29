@@ -11,3 +11,4 @@ My personal workspace.
 | Headphones | Bose | QuietComfort 45 | | |
 | Headphones | Apple | AirPods 2nd Generation | [URL](https://www.amazon.com/gp/product/B07PXGQC1Q/) | |
 | USB Hub | Anker | PowerExpand+ 5-in-1 USB-C Ethernet Hub | [URL](https://www.amazon.com/Anker-Upgraded-Adapter-Ethernet-Pixelbook/dp/B07X8ZLYLR) | |
+| Monitor | Dell | G2723H | | |

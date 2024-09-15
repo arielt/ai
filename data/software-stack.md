@@ -4,10 +4,11 @@ My go-to list of tools & software.
 
 | Category | Item | URL | Notes |
 | -------- | ---- | --- | ----- |
-| Code editor | Visual Studio Code | https://code.visualstudio.com/ | Not IDE |
+| Code editor | Visual Studio Code | https://code.visualstudio.com/ | Not an IDE |
 | IDE         | 🛑 | 🛑 | 🛑 |
 | Personal vault | Zxbase | https://zxbase.com ||
 | Cross-platform app development framework | Flutter | https://flutter.dev/ ||
+| Database | PostgreSQL | https://www.postgresql.org/ ||
 
 ### Ruby stack
 | Category | Item | URL | Notes |

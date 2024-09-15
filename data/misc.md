@@ -8,19 +8,19 @@ Best sources for car reliability.
 | ---- | --- | ----- |
 | iSeeCars | https://www.iseecars.com/most-reliable | https://www.iseecars.com/car/#{model}/reliability |
 
-### Pets
+## Pets
 | Item | URL | Notes |
 | ---- | --- | ----- |
 | Dogs | |
 | Cats | |
 
-### Bags
+## Bags
 Item == {Brand + Model}
 | Brand | Model | URL | Notes |
 | ----- | ----- | --- | ----- |
 | The North Face | Commuter Pack Alt Carry | [URL](https://www.thenorthface.com/en-us/bags-and-gear/backpacks/mens-backpacks-c298772/commuter-pack-alt-carry-pNF0A52SX?color=KX7) | [Sling] [Discontinued] |
 
-### Coffee machines
+## Coffee machines
 Item == {Brand + Model}
 | Brand | Model | URL | Notes |
 | ----- | ----- | --- | ----- |

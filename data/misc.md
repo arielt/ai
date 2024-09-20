@@ -1,5 +1,10 @@
 # Misc
 
+## Video games
+| Item | URL | Notes |
+| ---- | --- | ----- |
+| Red Dead Redemption 2 | https://store.steampowered.com/agecheck/app/1174180/ | | 
+
 ## Cars
 
 ### Car reliability

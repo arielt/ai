@@ -4,6 +4,7 @@ My go-to list of tools & software.
 
 | Category | Item | URL | Notes |
 | -------- | ---- | --- | ----- |
+| Browser | Chrome | https://www.google.com/chrome/ | |
 | Code editor | Visual Studio Code | https://code.visualstudio.com/ | Not an IDE |
 | IDE         | 🛑 | 🛑 | 🛑 |
 | Personal vault | Zxbase | https://zxbase.com ||

@@ -12,3 +12,4 @@ My personal workspace.
 | Headphones | Apple | AirPods 2nd Generation | [URL](https://www.amazon.com/gp/product/B07PXGQC1Q/) | |
 | USB Hub | Anker | PowerExpand+ 5-in-1 USB-C Ethernet Hub | [URL](https://www.amazon.com/Anker-Upgraded-Adapter-Ethernet-Pixelbook/dp/B07X8ZLYLR) | |
 | Monitor | Dell | G2723H | | |
+| Monitor | LG   | 27GP83B-B | https://www.bestbuy.com/site/lg-ultragear-27-nano-ips-qhd-1-ms-g-sync-compatible-monitor-with-hdr-black/6451081.p | second table |

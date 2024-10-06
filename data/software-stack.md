@@ -10,6 +10,7 @@ My go-to list of tools & software.
 | Personal vault | Zxbase | https://zxbase.com ||
 | Cross-platform app development framework | Flutter | https://flutter.dev/ ||
 | Database | PostgreSQL | https://www.postgresql.org/ ||
+| Document collaboration | Google Docs | https://docs.google.com/ | |
 
 ### Ruby stack
 | Category | Item | URL | Notes |

@@ -30,3 +30,12 @@ Item == {Brand + Model}
 | Brand | Model | URL | Notes |
 | ----- | ----- | --- | ----- |
 | Breville | Barista Express Espresso Machine BES870XL | [URL](https://www.amazon.com/gp/product/B00CH9QWOU) | |
+
+## Football club
+| Name | URL | Notes |
+| Liverpool F.C | https://www.liverpoolfc.com/ | |
+
+## Pencils
+| Brand | Model | Size | URL | Notes |
+| ----- | ----- | ---  | ----- | --- |
+| Pilot | G2    |  0.5 |       |     |

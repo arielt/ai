@@ -4,6 +4,7 @@
 | Item | URL | Notes |
 | ---- | --- | ----- |
 | Red Dead Redemption 2 | https://store.steampowered.com/agecheck/app/1174180/ | | 
+| Heroes of Might & Magic 3 | https://store.steampowered.com/app/297000/Heroes_of_Might__Magic_III__HD_Edition/ | |
 
 ## Cars
 
@@ -33,6 +34,7 @@ Item == {Brand + Model}
 
 ## Football club
 | Name | URL | Notes |
+| ---- | --- | ----- |
 | Liverpool F.C | https://www.liverpoolfc.com/ | |
 
 ## Pencils

@@ -40,4 +40,5 @@ Item == {Brand + Model}
 ## Pencils
 | Brand | Model | Size | URL | Notes |
 | ----- | ----- | ---  | ----- | --- |
+| Pentel | GraphGear 500| 0.5 | https://www.amazon.com/dp/B0006HXQXA | |
 | Pilot | G2    |  0.5 |       |     |

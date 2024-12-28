@@ -16,3 +16,8 @@ My go-to list of tools & software.
 | Category | Item | URL | Notes |
 | -------- | ---- | --- | ----- |
 | Version manager | rbenv | https://github.com/rbenv/rbenv | |
+
+### Screen recording
+| Name | URL | Notes |
+| ---- | --- | ----- |
+| OBS Studio | https://obsproject.com/ | |

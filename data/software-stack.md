@@ -21,3 +21,9 @@ My go-to list of tools & software.
 | Name | URL | Notes |
 | ---- | --- | ----- |
 | OBS Studio | https://obsproject.com/ | |
+
+
+### Documentation
+| Name | URL | Notes |
+| ---- | --- | ----- |
+| Docusaurus | https://docusaurus.io/ | |

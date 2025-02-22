@@ -13,3 +13,5 @@
 | Ski mask | Bula | | | | [Costco](https://www.costco.com/) | |
 | Ski bag | OutdoorMaster | | | https://www.amazon.com/dp/B07JK3862Q | [Amazon](https://www.amazon.com/) | |
 | Boot bag | OutdoorMaster | | | https://www.amazon.com/dp/B07JK3862Q | [Amazon](https://www.amazon.com/) | |
+| Jacket | Columbia | Timberturner II | | | |
+| Pants | Columbia | | | |

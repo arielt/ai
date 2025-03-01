@@ -1,4 +1,4 @@
-"""Sentiment analysis of quotes dataset."""
+"""Quotes dataset basics and stats."""
 
 import kagglehub
 import pandas as pd

@@ -3,7 +3,7 @@
 ## Quotes dataset
 https://www.kaggle.com/datasets/manann/quotes-500k
 ```shell
-python quotes.py
+python setup_dataset.py
 ```
 
 ```

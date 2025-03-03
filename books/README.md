@@ -1,11 +1,22 @@
 # Books
 
-## Space
+## Identifiers
+
+### ISBN
 
 An International Standard Book Number (ISBN) identifies a specific edition of a book. Any given title may therefore have a number of different ISBNs.
 There are 44 millions registered ISBNs in 2025 (https://isbndb.com/)
 
+### Work ID
+
+Goodreads identifier. An abstract version of a book, not tied to specific edition or translation. It is in the URL of the page, for example: https://www.goodreads.com/work/editions/43055831-designing-data-intensive-applications, 43055831 is a work ID.
+
+Reference: https://help.goodreads.com/s/article/What-s-a-Work-ID-and-where-can-I-find-it
+
+### ASIN
+
 Internally, Amazon uses ASIN - Amazon Standard Identification Number.
+
 
 ## Datasets
 

@@ -1,4 +1,6 @@
-""" TextBlob sentiment analysis. """
+"""
+Sentiment analysis with TextBlob.
+"""
 
 import kagglehub
 import pandas as pd
@@ -6,13 +8,21 @@ from tqdm import tqdm
 
 from textblob import TextBlob
 
-def calculate_sentiment(s):
-    """Sentiment calculation."""
-    tb = TextBlob(str(s.Quote))
-    s['Sentiment'] = tb.sentiment
-    s['Polarity'] = tb.sentiment.polarity
-    s['Subjectivity'] = tb.sentiment.subjectivity
-    return s
+def calculate_sentiment(columns: pd.DataFrame.columns) -> pd.DataFrame.columns:
+    """
+    Calculates sentiment, adding new columns to existing DataFrame columns.
+
+    Args:
+        columns: DataFrame columns.
+
+    Returns:
+        Updated dataframe columns.
+    """
+    quote = TextBlob(str(columns.Quote))
+    columns['Sentiment'] = quote.sentiment
+    columns['Polarity'] = quote.sentiment.polarity
+    columns['Subjectivity'] = quote.sentiment.subjectivity
+    return columns
 
 path = kagglehub.dataset_download("manann/quotes-500k")
 

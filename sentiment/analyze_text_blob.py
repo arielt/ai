@@ -1,7 +1,8 @@
 """TextBlob stats."""
+
 import pandas as pd
 
-df = pd.read_csv('./data/text-blob-sentiment.csv')
+df = pd.read_csv("./data/text-blob-sentiment.csv")
 
 total_count = len(df.Sentiment)
 

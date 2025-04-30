@@ -27,3 +27,13 @@ My go-to list of tools & software.
 | Name | URL | Notes |
 | ---- | --- | ----- |
 | Docusaurus | https://docusaurus.io/ | |
+
+### [Computational Notebook](https://martinfowler.com/bliki/ComputationalNotebook.html)
+| Name | URL | Notes |
+| ---- | --- | ----- |
+| JupyterLab | https://jupyter.org/install | |
+
+
+### Hosting
+| Name | URL | Notes |
+| ---- | --- | ----- |

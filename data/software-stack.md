@@ -16,6 +16,7 @@ My go-to list of tools & software.
 | Category | Item | URL | Notes |
 | -------- | ---- | --- | ----- |
 | Version manager | rbenv | https://github.com/rbenv/rbenv | |
+| Background jobs | Resque | https://github.com/resque/resque | |
 
 ### Screen recording
 | Name | URL | Notes |

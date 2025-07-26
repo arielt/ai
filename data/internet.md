@@ -1,7 +1,5 @@
 # Internet
 
-v Follows gear notation
-
 | Category | Brand | Model | URL | Notes |
 | -------- | ----- | ----- | --- | ----- |
 | Provider | Xfinity||https://www.xfinity.com/||

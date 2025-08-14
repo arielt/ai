@@ -12,6 +12,11 @@ My go-to list of tools & software.
 | Database | PostgreSQL | https://www.postgresql.org/ ||
 | Document collaboration | Google Docs | https://docs.google.com/ | |
 
+#### Visual Studio Code theme
+| Name | Notes |
+| ---- | ----- |
+| Quiet Light | |
+
 ### Ruby stack
 | Category | Item | URL | Notes |
 | -------- | ---- | --- | ----- |

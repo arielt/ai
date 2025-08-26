@@ -2,16 +2,6 @@
 
 ## General
 
-Entity: book
-
-Item == {Title + Author}
-
-It is not going to the level of specific instances, like ISBN, edition, publication date, or language.
-It was deemed non-important for matching.
-
-Open questions:
-  - Category vs Label. Each list defines the category. Should it be re-labeled?
-
 ## Lists
 ### Life
 Most influential books in my life.

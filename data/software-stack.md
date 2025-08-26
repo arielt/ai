@@ -2,7 +2,7 @@
 
 My go-to list of tools & software.
 
-| Category | Item | URL | Notes |
+| Category | Name | URL | Notes |
 | -------- | ---- | --- | ----- |
 | Browser | Chrome | https://www.google.com/chrome/ | |
 | Code editor | Visual Studio Code | https://code.visualstudio.com/ | Not an IDE |
@@ -18,7 +18,7 @@ My go-to list of tools & software.
 | Quiet Light | |
 
 ### Ruby stack
-| Category | Item | URL | Notes |
+| Category | Name | URL | Notes |
 | -------- | ---- | --- | ----- |
 | Version manager | rbenv | https://github.com/rbenv/rbenv | |
 | Background jobs | Resque | https://github.com/resque/resque | |

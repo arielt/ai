@@ -6,5 +6,5 @@
 
 ## Favs
 
-| Title | Year | Notes |
-| ----- | ---- | ----- |
+| Title | URL | Notes |
+| ----- | --- | ----- |

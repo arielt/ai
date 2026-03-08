@@ -1,12 +1,15 @@
 # Tennis
 
 ## Tennis Rackets
+
 Sports & Outdoors›Sports›Tennis & Racquet Sports›Tennis›Racquets
 
 | Brand | Model | URL | Notes |
 | ----- | ----- | --- | ----- |
-| Wilson |  Hyper Hammer Hybrid 6 | | | 
-| Babolat |  Pure Drive | | | 
+| Wilson | Blade 100 | | |
+| Wilson | Hyper Hammer Hybrid 6 | | Grip 3 (4 3/8") |
+| Yonex | Ezone 100 | | |
+| Babolat | Pure Drive | | |
 
 ## Tennis Shoes
 

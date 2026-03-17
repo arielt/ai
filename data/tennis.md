@@ -12,6 +12,7 @@ Sports & Outdoors›Sports›Tennis & Racquet Sports›Tennis›Racquets
 | Wilson | Hyper Hammer Hybrid 6 | | Grip 3 (4 3/8") |
 | Yonex | Ezone 100 | | |
 | Babolat | Pure Drive | | |
+| Head | Speed MP | https://www.head.com/en_US/product/speed-mp-2026-232026 | 2026 +color -response, power, precision |
 
 ## Tennis Shoes
 

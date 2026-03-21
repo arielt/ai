@@ -15,7 +15,6 @@ Sports & Outdoors›Sports›Tennis & Racquet Sports›Tennis›Racquets
 | Yonex | Ezone 100 | | |
 | Babolat | Pure Drive | | |
 | Head | Speed MP | https://www.head.com/en_US/product/speed-mp-2026-232026 | 2026 +color -response, power, precision. Control 100. |
-| Head | Extreme MP | https://www.head.com/en_US/product/speed-mp-2026-232026 | 2026 +color -response, power, precision. Control 100. |
 
 Yonex Ezone 98
 

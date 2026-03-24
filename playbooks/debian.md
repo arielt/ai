@@ -29,4 +29,17 @@ EOF
 apt update
 
 apt install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+systemctl status docker
+```
+
+## Letsencrypt
+
+```
+apt install certbot
+systemctl status certbot
+```
+
+## Git
+```
+apt install git
 ```

@@ -43,3 +43,33 @@ systemctl status certbot
 ```
 apt install git
 ```
+
+## Network
+Docker compose:
+```
+networks:
+  frontend:
+    # default bridge network, allows external access
+  backend:
+    driver: bridge
+    internal: true # prevents containers on this network from having outgoing internet access
+```
+## Postgres
+
+The default Postgres image is Debian. No ports to be open. 
+Docker compose:
+```
+  db:
+    image: postgresql:latest
+    restart: unless-stopped
+    volumes:
+      - ./volumes/db:/var/lib/postgresql/data
+    driver: "json-file"
+    options:
+      max-file: 5
+      max-size: 10m
+    env_file:
+      - .env
+    networks:
+      - backend
+```

@@ -60,7 +60,7 @@ The default Postgres image is Debian. No ports to be open.
 Docker compose:
 ```
   db:
-    image: postgresql:latest
+    image: postgres:latest
     restart: unless-stopped
     volumes:
       - ./volumes/db:/var/lib/postgresql/data

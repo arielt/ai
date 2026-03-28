@@ -44,6 +44,37 @@ systemctl status certbot
 apt install git
 ```
 
+## Hugo
+
+Dockerfile
+
+```
+# build image
+FROM debian:trixie-slim AS build
+RUN apt-get update && apt-get install -y \
+    curl \
+    git \
+    ca-certificates \
+    --no-install-recommends
+
+# get latest Hugo release (extended version for SASS support)
+RUN HUGO_VERSION=$(curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | grep tag_name | cut -d '"' -f 4 | sed 's/v//') && \
+    curl -L "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb" -o /tmp/hugo.deb && \
+    apt-get install -y /tmp/hugo.deb
+
+# build site
+WORKDIR /src
+COPY . .
+RUN hugo version
+RUN hugo
+
+# production image
+FROM nginx:latest
+COPY --from=build /src/public /usr/share/nginx/html
+EXPOSE 80/tcp
+CMD ["nginx", "-g", "daemon off;"]
+```
+
 ## Network
 Docker compose:
 ```

@@ -37,6 +37,8 @@ systemctl status docker
 ```
 apt install certbot
 systemctl status certbot
+certbot certonly -d example.com
+certbot certificates
 ```
 
 ## Git
@@ -73,6 +75,14 @@ FROM nginx:latest
 COPY --from=build /src/public /usr/share/nginx/html
 EXPOSE 80/tcp
 CMD ["nginx", "-g", "daemon off;"]
+```
+
+## HAProxy
+
+HAProxy to terminate SSL connections and distribute traffic between containers.
+```
+apt install haproxy
+systemctl status haproxy
 ```
 
 ## Network

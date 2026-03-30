@@ -37,7 +37,8 @@ systemctl status docker
 ```
 apt install certbot
 systemctl status certbot
-certbot certonly -d example.com
+# run on port 8888 dispatched by haproxy
+certbot certonly --standalone -d example.com --non-interactive --force-renewal --http-01-port=8888
 certbot certificates
 ```
 

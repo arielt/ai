@@ -118,8 +118,21 @@ Docker compose:
 
 DB operations
 ```
-# install psql on the host
-apt-get update && apt-get install -y postgresql-client
+# install postgres client on the host
+apt update
+apt install ca-certificates
+curl -fSsL https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo gpg --dearmor -o /usr/share/keyrings/pgdg.gpg
+
+tee /etc/apt/sources.list.d/pgdg.sources <<EOF
+Types: deb
+URIs: https://apt.postgresql.org/pub/repos/apt/
+Suites: trixie-pgdg
+Components: main
+Signed-By: /usr/share/keyrings/pgdg.gpg
+EOF
+
+apt update
+apt install postgresql-client
 
 # create app user
 createuser --createdb --pwprompt $DB_USER -h localhost -U postgres
@@ -132,7 +145,7 @@ PGPASSWORD=$POSTGRES_PASSWORD psql -h localhost -U postgres
 PGPASSWORD=$DB_PWD psql -h localhost -U $DB_USER -d $DB_DB
 
 # Backup
-
+PGPASSWORD=$DB_PWD pg_dump -h localhost -U $DB_USER -d $DB_DB > dump.sql
 
 # Restore
 more dump.sql | PGPASSWORD=$DB_PWD psql -h localhost -U $DB_USER -d $DB_DB

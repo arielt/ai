@@ -105,7 +105,7 @@ Docker compose:
     image: postgres:latest
     restart: unless-stopped
     volumes:
-      - ./volumes/db:/var/lib/postgresql/data
+      - ./volumes/data:/var/lib/postgresql
     driver: "json-file"
     options:
       max-file: 5
@@ -116,8 +116,24 @@ Docker compose:
       - backend
 ```
 
-Install psql on the host:
+DB operations
 ```
+# install psql on the host
 apt-get update && apt-get install -y postgresql-client
-PGPASSWORD=$POSTGRES_PASSWORD psql -h localhost -U $POSTGRES_USER -d $POSTGRES_DB
+
+# create app user
+createuser --createdb --pwprompt $DB_USER -h localhost -U postgres
+createdb -O $DB_USER $DB_DB -h localhost -U postgres
+
+# CLI
+# superuser
+PGPASSWORD=$POSTGRES_PASSWORD psql -h localhost -U postgres
+# app user
+PGPASSWORD=$DB_PWD psql -h localhost -U $DB_USER -d $DB_DB
+
+# Backup
+
+
+# Restore
+more dump.sql | PGPASSWORD=$DB_PWD psql -h localhost -U $DB_USER -d $DB_DB
 ```

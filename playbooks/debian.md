@@ -115,3 +115,9 @@ Docker compose:
     networks:
       - backend
 ```
+
+Install psql on the host:
+```
+apt-get update && apt-get install -y postgresql-client
+PGPASSWORD=$POSTGRES_PASSWORD psql -h localhost -U $POSTGRES_USER -d $POSTGRES_DB
+```

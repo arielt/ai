@@ -84,6 +84,9 @@ HAProxy to terminate SSL connections and distribute traffic between containers.
 ```
 apt install haproxy
 systemctl status haproxy
+
+# check configuration
+haproxy -c -f /etc/haproxy/haproxy.cfg
 ```
 
 ## Network
@@ -102,7 +105,7 @@ The default Postgres image is Debian. No ports to be open.
 Docker compose:
 ```
   db:
-    image: postgres:latest
+    image: postgres:18
     restart: unless-stopped
     volumes:
       - ./volumes/data:/var/lib/postgresql

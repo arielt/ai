@@ -87,6 +87,9 @@ systemctl status haproxy
 
 # check configuration
 haproxy -c -f /etc/haproxy/haproxy.cfg
+
+# reload configuration
+service haproxy reload
 ```
 
 ## Network

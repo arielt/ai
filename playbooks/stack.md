@@ -17,6 +17,10 @@ ChatGPT (fluffy):
   - OS: Ubuntu
   - Compute instances: CPX
 
+**Conclusion**
+  - Debian 13
+  - CX23 2VCPUs / 4 GB RAM / 40 GB disk
+
 ## Monitoring stack
 
 Prompt: What is the best monitoring stack for CAX21 / Debian, to see CPU/memory/Node/Postgres usage?
@@ -35,8 +39,9 @@ ChatGPT:
 Gemini:
   - Uptima Kuma
 
-OS stats: Beszel : easiest to operate, lightest on resources.
-Endpoints: Uptime Robot. Kuma for DB if required.
+**Conclusion**
+  - OS stats: Beszel : easiest to operate, lightest on resources.
+  - Endpoints: Uptime Robot
 
 ## DB
 

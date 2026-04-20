@@ -1,6 +1,6 @@
 # Tennis
 
-## Tennis Rackets
+## Tennis Racquets
 
 Sports & Outdoors›Sports›Tennis & Racquet Sports›Tennis›Racquets
 

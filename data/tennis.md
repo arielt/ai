@@ -6,7 +6,7 @@ Sports & Outdoors›Sports›Tennis & Racquet Sports›Tennis›Racquets
 
 | Brand | Model | Head Size | Weight | String Pattern | URL | Notes |
 | ----- | ----- | --------- | ------ | -------------- | --- | ----- |
-| Head | Radical MP 400 | 98 | 318 | 16 x 19 | https://www.head.com/en_US/product/radical-mp-2025-231015 | +serves, sound, precision, control, serves; - raw vibration. For opponents, slow balls harder to return. |
+| Head | Radical MP 400 | 98 | 300 | 16 x 19 | https://www.head.com/en_US/product/radical-mp-2025-231015 | +serves, sound, precision, control, serves; - raw vibration. For opponents, slow balls harder to return. |
 | Wilson | Wilson Pro Staff 97 v14 | 97 | 332 | 16 x 19 | https://www.wilson.com/en-us/product/pro-staff-97-v14-frm-wr12570 | |
 | Wilson | Blade 98 v9 16x19 | 98 | 323 | 16 x 19 | https://www.wilson.com/en-us/custom/rackets/blade/blade-98-16x19-v9/customize | |
 | Dunlop | FX 500 | 100 | 318 | 16 x 19 | https://www.tennis-warehouse.com/Dunlop_FX_500/descpageRCDUNLOP-DF500.html | 100 16x19 best power racquet |
@@ -21,7 +21,8 @@ Sports & Outdoors›Sports›Tennis & Racquet Sports›Tennis›Racquets
 Evaluation
 | Brand | Model | Head Size | Weight | String Pattern | URL | Notes |
 | ----- | ----- | --------- | ------ | --- | --- | ----- |
-| Babolat | Pure Aero Plus | 100 | 334 | 16 x 19 | https://www.tennis-warehouse.com/Babolat_Pure_Aero_Plus_2023/descpageRCBAB-BAROPL.html | Fast, forgiving. For opponents, fast balls easier to return. Weight is fine. 27.5 length. |
+| Babolat | Pure Aero 100 Plus 2026 | 100 | 334 | 16 x 19 | https://www.tennis-warehouse.com/Babolat_Pure_Aero_Plus_2026/descpageRCBAB-BPAPLR.html | Fast, forgiving. For opponents, fast balls easier to return. Weight is fine. 27.5 length. |
+| Head | Instinct MP 2025 | 100 | 300 | 16 x 19 | https://www.head.com/en_US/product/instinct-mp-2025-232005 | Good overall. |
 
 ## Tennis Shoes
 Clothing, Shoes & Jewelry›Men›Shoes›Athletic›Tennis & Racquet Sports

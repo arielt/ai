@@ -12,7 +12,11 @@ alias python="python3"
 alias pip="pip3"
 ```
 
-## Pipeline examples
+## Transfomer models
 
-  - pipeline*.py
-  - https://huggingface.co/learn/llm-course/chapter1/3
+  - tranformer_models/
+  - https://huggingface.co/learn/llm-course/chapter1
+
+## Using transformers
+
+  - using_transformers/

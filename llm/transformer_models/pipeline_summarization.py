@@ -7,8 +7,7 @@ from transformers import pipeline
 
 print("\n --- Summarization")
 summarizer = pipeline("summarization")
-result = summarizer(
-    """
+result = summarizer("""
     America has changed dramatically during recent years. Not only has the number of 
     graduates in traditional engineering disciplines such as mechanical, civil, 
     electrical, chemical, and aeronautical engineering declined, but in most of 
@@ -27,8 +26,7 @@ result = summarizer(
     Other industrial countries at minimum maintain their output, while America 
     suffers an increasingly serious decline in the number of engineering graduates 
     and a lack of well-educated engineers.
-"""
-)
+""")
 
 print("\n --- Result")
 pprint.pprint(result)

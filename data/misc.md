@@ -24,7 +24,8 @@ Best sources for car reliability.
 Title == {Brand + Model}
 | Brand | Model | URL | Notes |
 | ----- | ----- | --- | ----- |
-| The North Face | Commuter Pack Alt Carry | [URL](https://www.thenorthface.com/en-us/bags-and-gear/backpacks/mens-backpacks-c298772/commuter-pack-alt-carry-pNF0A52SX?color=KX7) | [Sling] [Discontinued] |
+| The North Face | Commuter Pack Alt Carry | [URL](https://www.thenorthface.com/en-us/p/bags-and-gear/backpacks/fanny-packs-and-totes-591785/commuter-pack-alt-carry-NF0A52SX) | [Sling] [Discontinued] |
+| Thule | Accent 20L | [URL](https://www.thule.com/en-us/backpacks/laptop-backpacks/thule-accent-backpack-20l-_-3205380) | [Backpack] |
 
 ## Coffee machines
 Title == {Brand + Model}

@@ -6,4 +6,3 @@
 | Razor | Gillette | Mach3 | https://www.amazon.com/gp/product/B06X9V77XY | |
 | Soap | Australian Botanical Soap | Goats Milk | https://www.amazon.com/Australian-Botanical-Soap-Goats-Triple-Milled/dp/B085SXHXKV | |
 | Shaving Soap | Van Der Hagen | Scented Luxury Shave Soap | https://www.amazon.com/dp/B01N7QYJG4 | |
-| Backpack | Thule | Accent 20L | | |

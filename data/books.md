@@ -3,25 +3,31 @@
 ## General
 
 ## Lists
-### Life
-Most influential books in my life.
+
+### Business
 | Title | Author | URL |
 | ----- | ------ | --- |
+| Rework | Jason Fried and David Heinemeier Hansson | |
+| Zero to One | Peter Thiel | |
+| Harvard Business Review Manager's Handbook | Harvard Business Review | |
+| Smart and Gets Things Done | Joel Spolsky | |
+
+
+### Nonfiction
+| Title | Author | URL |
+| ----- | ------ | --- |
+| Thinking, Fast and Slow | Daniel Kahneman | |
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | |
 | Man's Search for Meaning | Viktor E. Frankl | |
-| Thinking, Fast and Slow | Daniel Kahneman | |
+| Outliers | Malcolm Gladwell | |
+| Never Split the Difference | Chris Voss | |
 
-### Sci-Fi
+
+### Fiction
 | Title | Author | URL |
 | ----- | ------ | --- |
 | Dune | Frank Herbert | |
 | Slaughterhouse-Five | Kurt Vonnegut | |
+| The Lord of the Rings | J. R. R. Tolkien | |
 | Starship Troopers | Robert A. Heinlein | |
 | Hyperion | Dan Simmons | |
-
-### Work
-| Title | Author | URL |
-| ----- | ------ | --- |
-| Harvard Business Review Manager's Handbook | Harvard Business Review | |
-| Smart and Gets Things Done | Joel Spolsky | |
-| Zero to One | Peter Thiel | |

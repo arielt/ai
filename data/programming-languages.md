@@ -8,8 +8,8 @@ My favorite programming languages.
   - C++
   - Dart
   - Ruby
+  - Javascript
   - Python
+  - SQL
   - Go
   - Java
-  - Javascript
-  - SQL
